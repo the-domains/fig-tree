@@ -1,0 +1,14 @@
+layout_spectrum: 0.35992990736849606
+typography_spectrum: 0.44746343581937253
+color:
+  brandStrength: 0.599629757925868
+  lightness: 0.35524451080709696
+  saturation: 0.1397916681598872
+  rhythmicContrast: 0.4351115326862782
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: Fig Tree
